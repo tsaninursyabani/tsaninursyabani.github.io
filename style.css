@@ -992,6 +992,10 @@ footer{
 
 }
 
+.project-card img{
+    height:300px;
+}
+
 footer{
 
     font-size:.85rem;
