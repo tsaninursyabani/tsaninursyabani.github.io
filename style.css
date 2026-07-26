@@ -508,9 +508,7 @@ header{
 
 }
 
-.project-card img{
-    height:360px;
-}
+
 
 }
 
@@ -565,9 +563,6 @@ section{
 }
 
 
-.project-card img{
-    height: 300px;
-}
 
 }
 
@@ -976,7 +971,7 @@ footer{
 }
 
 .project-card img{
-    height:360px;
+    height:375px;
 }
 
 }
@@ -1002,7 +997,7 @@ footer{
 }
 
 .project-card img{
-    height:300px;
+    height:350px;
 }
 
 footer{
